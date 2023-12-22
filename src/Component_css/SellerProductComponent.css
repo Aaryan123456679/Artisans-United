@@ -1,0 +1,38 @@
+
+.sellerProduct__price{
+    margin-top: 5px;
+}
+
+.sellerProduct__info{
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.sellerProduct__info > p{
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.sellerProduct__{
+    margin-top: 5px;
+}
+
+.sellerProductComponent{
+    display: flex;
+    flex-direction: column;
+    min-height: 400px;
+    min-width: 100px;
+    background-color: white;
+    z-index: 1;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 20px;
+
+}
+
+.sellerProduct__image{
+    width: 100%;
+    max-height: 150px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}

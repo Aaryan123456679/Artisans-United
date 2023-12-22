@@ -1,0 +1,17 @@
+.createUser{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.createUser__btn{
+    width: 100%;
+    border: 1px solid;
+    border-color: #6A8D92 #80B192 #365943;
+    border-radius: 2px;
+    width: 100%;
+    margin-top: 10px;
+    height: 30px;
+}
